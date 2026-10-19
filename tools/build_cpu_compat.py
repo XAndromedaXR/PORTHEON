@@ -279,8 +279,15 @@ def main():
                         plan['unhandled'].append({'module': name, 'address': hex(addr), 'instruction': f'{mnem} {op}', 'reason': 'Short instruction could not be spanned'})
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
+    serialized = json.dumps(plan, separators=(',', ':')).encode('utf-8')
     with atomic_output(args.out) as s:
-        s.write(json.dumps(plan, separators=(',', ':')).encode('utf-8'))
+        s.write(serialized)
+    try:
+        import lzma
+        with atomic_output(args.out.with_name('legacy-cpu-plan.json.xz')) as s:
+            s.write(lzma.compress(serialized))
+    except Exception:
+        pass
     print(f"Legacy CPU Plan created: {len(plan['sites'])} sites translated, {len(plan['unhandled'])} unhandled.")
 
 if __name__ == '__main__':
