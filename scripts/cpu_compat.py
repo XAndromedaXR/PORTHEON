@@ -156,9 +156,14 @@ def patch_image(image, segments, main, modules, relocations, *, plan=None, activ
         return bytearray(image), list(segments), report
 
     plan_path = Path(__file__).resolve().parent.parent / 'tools/legacy-cpu-plan.json'
-    if plan is None and plan_path.exists():
+    plan_xz = Path(__file__).resolve().parent.parent / 'tools/legacy-cpu-plan.json.xz'
+    if plan is None:
         try:
-            plan = json.loads(plan_path.read_bytes())
+            if plan_path.exists():
+                plan = json.loads(plan_path.read_bytes())
+            elif plan_xz.exists():
+                import lzma
+                plan = json.loads(lzma.decompress(plan_xz.read_bytes()))
         except Exception as e:
             print(f"Warning: Legacy CPU plan found but could not be read: {e}")
             plan = None
