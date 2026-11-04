@@ -13,3 +13,4 @@
 # Exemplos (com # na frente ficam desligados) / examples (off while they start with #):
 # skip|UFC6|rtx 50|1df15270c9e3607b
 # warn|*|amd+rx 5700|Driver AMD 24.x tem um erro conhecido: use o 25.x.|AMD driver 24.x has a known bug: use 25.x.
+warn|UFC6|amd+rx 7|Placa AMD RX 7000: se o UFC 6 travar ou a placa parar de responder (erro 321), abra a pasta do PORTHEON > games > UFC6 > UFC6.ini e adicione a linha amd_fix=1 embaixo de [UFC6].|AMD RX 7000 card: if UFC 6 stops or the card stops responding (code 321), open the PORTHEON folder > games > UFC6 > UFC6.ini and add the line amd_fix=1 under [UFC6].
