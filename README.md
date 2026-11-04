@@ -66,6 +66,7 @@
 - **UFC 1-4 ports:** built on **GNS** (GNSB)'s UFC 3 PS4 port, on SacredFire / bbport and on shadPS4.
 - Also: KytyPS5 and Kyty (InoriRus), roshanarunk, Senaxx and EmK530 (UFC 5 engine work), deanzx06 (Sandy/Ivy Bridge compatibility), the GoldHEN Cheat Repository (UFC 4 cheats), SDL_GameControllerDB.
 - And also credits to ken9l
+- **UFC 2/4 community port:** PORTHEON includes the v3.0 engine (`ufc2-v3.0`) and the UFC 2 online server files, unmodified, under GPL-2.0. Source and licenses are in `games\engines\port-v30`. It does not include v3.1. Authors can ask for credit or license changes on Discord: https://discord.gg/FEQ752rUz
 
 ## License
 
