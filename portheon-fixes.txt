@@ -1,0 +1,15 @@
+# PORTHEON fixes 1
+# Lista de correcoes que todo PORTHEON (4.3.8 ou mais novo) le do GitHub ao abrir.
+# Fixes list every PORTHEON (4.3.8 or newer) reads from GitHub at start.
+#
+# Linhas / lines:
+#   skip|JOGO|PLACA|hash,hash,...      efeitos (shaders) a pular: 16 digitos hexadecimais cada / shaders to skip: 16 hex digits each
+#   warn|JOGO|PLACA|texto PT|text EN   aviso mostrado ao JOGAR e em Este PC roda? / warning shown at PLAY and in Does this PC run it?
+#
+# JOGO / GAME: UFC1, UFC2, UFC3, UFC4, UFC6 (skip) ou * (todos / all; warn tambem UFC5)
+# PLACA / CARD: * (todas), ou palavras juntas por + que precisam bater todas:
+#   nvidia / amd / intel (fabricante) ou um pedaco do nome da placa: rtx 50, rx 5700 xt, 1060
+#
+# Exemplos (com # na frente ficam desligados) / examples (off while they start with #):
+# skip|UFC6|rtx 50|1df15270c9e3607b
+# warn|*|amd+rx 5700|Driver AMD 24.x tem um erro conhecido: use o 25.x.|AMD driver 24.x has a known bug: use 25.x.
