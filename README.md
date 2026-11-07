@@ -92,12 +92,22 @@ Prefer a zip? **PORTHEON-6.0-Windows-x64.zip** is still in the release: extract 
 - **Online inside the game:** UFC 2 (in testing) and UFC 3.
 - **Profiles, automatic save backups, cheats (UFC 3, 4 and 6), desktop shortcuts and 16 languages.**
 
-## 🏆 Credits
+## 🏆 Credits & acknowledgements
 
-- **PORTHEON:** Marcelo Miyake (XAndromedaXR).
-- **UFC Undisputed 3:** the native PC port is UFC3MONS, and all credit for the port belongs to its creator. PORTHEON only opens and organizes it.
+A special thank-you to the original creators, whose work was the base of these projects. The builds and patches were improved and optimized by me, with further improvements for the current versions.
 
-The open-source licenses are in the package's `licenses` folder and in the `licenses` folders inside `games`.
+**UFC 5 BUILD**
+- **Cozmaa** — credit for the original build.
+- **Brotski** — credit for the original build.
+- Build improved and optimized by me, with further fixes and improvements.
+
+**UFC 6 BUILD**
+- **Peepo** — credit for the original build.
+- Build improved by me, with further optimizations and improvements.
+
+**FPS PATCH**
+- **lepexa_cell** — credit for the original patch.
+- Patch improved by me, with fixes and optimizations for the latest update.
 
 ## 📜 License
 
@@ -179,12 +189,22 @@ Prefere o zip? O **PORTHEON-6.0-Windows-x64.zip** continua na versão: extraia n
 - **Online dentro do jogo:** UFC 2 (em teste) e UFC 3.
 - **Perfis, backup automático dos saves, trapaças (UFC 3, 4 e 6), atalhos na área de trabalho e 16 idiomas.**
 
-## 🏆 Créditos
+## 🏆 Créditos & agradecimentos
 
-- **PORTHEON:** Marcelo Miyake (XAndromedaXR).
-- **UFC Undisputed 3:** o port nativo para PC é o UFC3MONS, e todo o crédito do port é de quem o criou. O PORTHEON só o abre e organiza.
+Um agradecimento especial aos criadores originais, cujos trabalhos serviram de base para estes projetos. As builds e os patches foram aprimorados e otimizados por mim, com melhorias adicionais para as versões atuais.
 
-As licenças de código aberto estão na pasta `licenses` do pacote e nas pastas `licenses` dentro de `games`.
+**UFC 5 BUILD**
+- **Cozmaa** — Créditos pela build original.
+- **Brotski** — Créditos pela build original.
+- Build aprimorada e otimizada por mim, com ajustes e melhorias adicionais.
+
+**UFC 6 BUILD**
+- **Peepo** — Créditos pela build original.
+- Build aprimorada por mim, com otimizações e melhorias adicionais.
+
+**FPS PATCH**
+- **lepexa_cell** — Créditos pelo patch original.
+- Patch aprimorado por mim, com ajustes e otimizações para a atualização mais recente.
 
 ## 📜 Licença
 
