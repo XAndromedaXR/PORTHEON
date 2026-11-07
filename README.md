@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="https://github.com/XAndromedaXR.png?size=280" width="140" alt="PORTHEON">
+
 # PORTHEON
 
-### Every UFC on your PC. One launcher. Zero hassle.
-### Todos os UFC no seu PC. Um launcher. Sem dor de cabeça.
+### Every UFC on your PC. One app. Zero hassle.
+### Todos os UFC no seu PC. Um aplicativo. Sem dor de cabeça.
 
-[![Latest release](https://img.shields.io/github/v/release/XAndromedaXR/PORTHEON?style=for-the-badge&color=7c3aed&label=version)](https://github.com/XAndromedaXR/PORTHEON/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/XAndromedaXR/PORTHEON/total?style=for-the-badge&color=7c3aed)](https://github.com/XAndromedaXR/PORTHEON/releases)
-[![Stars](https://img.shields.io/github/stars/XAndromedaXR/PORTHEON?style=for-the-badge&color=7c3aed)](https://github.com/XAndromedaXR/PORTHEON/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/XAndromedaXR/PORTHEON?style=for-the-badge&color=111111&label=version)](https://github.com/XAndromedaXR/PORTHEON/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/XAndromedaXR/PORTHEON/total?style=for-the-badge&color=111111)](https://github.com/XAndromedaXR/PORTHEON/releases)
+[![Stars](https://img.shields.io/github/stars/XAndromedaXR/PORTHEON?style=for-the-badge&color=111111)](https://github.com/XAndromedaXR/PORTHEON/stargazers)
 [![Discord](https://img.shields.io/badge/Discord-join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FEQ752rUz)
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1f1f2e?style=flat-square)
@@ -16,37 +18,40 @@
 ![Languages](https://img.shields.io/badge/languages-16-1f1f2e?style=flat-square)
 ![Free](https://img.shields.io/badge/price-free-1f1f2e?style=flat-square)
 
-**[⬇️ Download PORTHEON 5.0](https://github.com/XAndromedaXR/PORTHEON/releases/latest)** · **[💬 Discord](https://discord.gg/FEQ752rUz)** · **[🇧🇷 Português](#portugues)**
+**[⬇️ Download PORTHEON 6.0](https://github.com/XAndromedaXR/PORTHEON/releases/latest)** · **[💬 Discord](https://discord.gg/FEQ752rUz)** · **[🇧🇷 Português](#portugues)**
 
 </div>
 
 ---
 
-**PORTHEON** is a launcher for the PC ports of **EA SPORTS UFC 1, 2, 3, 4 (PS4), UFC 5, UFC 6 (PS5) and UFC Undisputed 3**, created and maintained by **Marcelo Miyake (XAndromedaXR)**. It finds the game, reads your PC and picks the best settings for each UFC by itself.
+**PORTHEON** is an app for the PC ports of **EA SPORTS UFC 1, 2, 3, 4 (PS4), UFC 5, UFC 6 (PS5) and UFC Undisputed 3**, and from 6.0 also **Zelda: Ocarina of Time (Switch 2)** and **God of War III Remastered (PS4)**, created and maintained by **Marcelo Miyake (XAndromedaXR)**. It finds the game, reads your PC and picks the best settings for each game by itself.
 
 > **PORTHEON is free. I do not sell copies of PORTHEON — I only accept donations** from anyone who wants to support the project.
 >
 > **No game files are included.** You need your own copy of each game.
-> This project is not affiliated with or endorsed by Electronic Arts, the UFC, THQ, Sony Interactive Entertainment or Microsoft. Game names and trademarks belong to their owners and are named only to identify the games.
+> This project is not affiliated with or endorsed by Electronic Arts, the UFC, THQ, Sony Interactive Entertainment, Nintendo or Microsoft. Game names and trademarks belong to their owners and are named only to identify the games.
 
-## 🔥 What's new in 5.0 — the biggest PORTHEON update yet
+## 🔥 What's new in 6.0 — the mega update
 
-A new PORTHEON from end to end: its own look, a new game, AMD FSR 1 on every UFC, fewer crashes on every card, and the game running alone with nothing in the background.
+PORTHEON is now an **app**: it installs with its own installer, looks like a PS5, brings two new games and the Recomp, and gives every UFC new options.
 
 | | |
 |---|---|
-| 🎨 **A look of its own** | Black and purple, glass panels and octagon-cut corners, with the game's number huge behind its name, like a fight poster |
-| 🥊 **UFC Undisputed 3 arrives** | A new block with the native PC port: pick the folder (default.xex) or the ISO and press Play |
-| ⚡ **AMD FSR 1 on every UFC** | On AMD, NVIDIA and Intel cards. UFC 5 and 6 get its sharpness; UFC 1-4 also get upscaling when the game accepts drawing smaller |
-| 🎮 **Add to your Steam library** | Any UFC goes to Steam with cover, background, logo and icon, and shows up in Big Picture |
-| 🛡️ **UFC 6 with fewer crashes** | RTX 50 and AMD RX 6000 fixes, clear messages, and memory profiles chosen by your RAM and video memory |
-| 🕹️ **UFC 5 fight speed** | Choose it in Video > Fight speed. 100% is the PS5's own pace; the default is 90%, a little slower |
-| 🧠 **Ryzen X3D** | On two-chiplet X3D processors, UFC 1-4 and Undisputed 3 now run on the 3D cache cores |
-| 💤 **Nothing in the background** | After Play, PORTHEON closes. Sitting idle, it no longer uses the processor |
+| 💿 **Now an app** | **PORTHEON-6.0-Setup.exe** checks the PC first (processor, driver, Vulkan, memory and disk), shows which games run on it, makes the shortcuts and uninstalls from Windows keeping your saves |
+| 🎮 **A PS5 look** | A home screen like the PS5's, an opening like the console's when it turns on, the new logo, black and white by default (other colors in Settings > Interface), each game's music and the controller's vibration in the menu |
+| ⚙️ **The Recomp** | **Ocarina Recomp** turns YOUR **Zelda: Ocarina of Time 1.1.1** into a **native PC game**, with no emulator, right inside PORTHEON (experimental) |
+| 🗡️ **New games** | **Zelda: Ocarina of Time (Switch 2)** on the Lichii MDias v4 emulator, and **God of War III Remastered (PS4)** through its native PC port |
+| 🥊 **UFC 6** | New Gameplay options (off by default): **no sparks, sweat or smoke** (every particle effect off), **infinite stamina** and **no damage / no knockout** (cheats); 480p and 360p for weak PCs and an exact 720p |
+| 🥊 **UFC 5** | 480p and 360p for weak PCs (the UI stays sharp); smooth mode (60 FPS + VSync) by default; 01.032 without fast fights |
+| 🥊 **UFC 1-4** | 3D resolution from 720p down to 360p (UFC 2-4); experimental cheats: infinite stamina in UFC 3 and no damage for the fighter on the left in UFC 4; **UFC 2 online (in testing):** Ranked hub and in-game invites |
+| ⌨️ **Keyboard** | UFC 1 to UFC 6's controls on any keys (Gameplay > Keyboard); UFC 5 and 6 take mouse buttons too |
+| 🖥️ **Borderless full screen** | In every UFC (Video tab): the game covers the monitor without changing its resolution, and Alt+Tab is instant |
+| 🛠️ **Fixes from your reports** | UFC 4 on Radeon RX 5000 (code 23), UFC 6 on RTX 50 (driver 621) and the AMD image-copy crash, clear warnings, the compatible mode offered after 2 crashes |
+| ⚡ **Faster to the game** | PLAY no longer repeats the PC check, file scans and backups every time; with the UFCs only the game stays open |
 
-Also new: a console-style account with name, photo and status, cinematic transitions that get lighter by themselves on weak PCs, its own icons, and a UFC 4 option to turn shadows off for more FPS.
+Also new: your game's version on each game's page, Zelda and God of War III covers before they are installed, and the new logo on the shortcuts and the taskbar.
 
-**[Read the full 5.0 notes →](https://github.com/XAndromedaXR/PORTHEON/releases/tag/5.0)**
+**[Read the full 6.0 notes →](https://github.com/XAndromedaXR/PORTHEON/releases/tag/6.0)**
 
 ## 🎮 Games
 
@@ -59,44 +64,44 @@ Also new: a console-style account with name, photo and status, cinematic transit
 | **EA SPORTS UFC 5** | PS5 | PPSA03541, version 01.031 | PC port (KytyPS5 engine) |
 | **EA SPORTS UFC 6** | PS5 | PPSA23566, version 01.004, 01.005 or 01.005 + 01.006 | PC port (KytyPS5 engine) |
 | **UFC Undisputed 3** | Xbox 360 | game folder (default.xex) or ISO | native PC port (UFC3MONS) |
+| **Zelda: Ocarina of Time** | Switch 2 | .nup, or .nsp/.xci with your own keys (version 1.1.1 for native) | Lichii emulator, or native PC with Ocarina Recomp (experimental) |
+| **God of War III Remastered** | PS4 | CUSA01623, update 01.02 | native PC port |
 
 ## 🚀 How to install
 
-1. Download **PORTHEON-5.0-Windows-x64.zip** from the [latest release](https://github.com/XAndromedaXR/PORTHEON/releases/latest).
-2. Extract it into a **new, empty folder** (never over an older version, and not inside OneDrive).
-3. Open **PORTHEON.exe**. On Linux / Steam Deck, run **portheon.sh** (experimental).
-4. PORTHEON looks for your games on the PC. If it does not find one, open the game, choose **Game files** and pick the folder of your game.
-5. Click **PLAY**.
+1. Download **PORTHEON-6.0-Setup.exe** from the [latest release](https://github.com/XAndromedaXR/PORTHEON/releases/latest).
+2. Run it. It checks your PC, shows which games run on it and installs PORTHEON with its shortcuts.
+3. Open **PORTHEON**. It looks for your games on the PC. If it does not find one, open the game, choose **Game files** and pick the folder of your game.
+4. Click **PLAY**.
 
-> ⚠️ **Coming from an older version?** Back up what you want to keep, delete your old PORTHEON and install 5.0 clean, so the shaders are rebuilt from scratch. Old files are probably behind most persistent errors and bugs.
+> ⚠️ **Coming from an older version?** Install with the new installer and **do not update from the old version's button**. In the installer, pick your old PORTHEON's folder: it is updated, and your saves and almost all settings stay.
 
-**Requirements:** Windows 10 (1903 or newer) or 11, 64-bit; a graphics card with Vulkan 1.3 (NVIDIA, AMD or Intel Arc) and an up-to-date driver. **UFC 1-4:** an Intel Core 4th generation (Haswell) or AMD Ryzen processor or newer (UFC 3 also runs on Intel Core 2nd/3rd generation through PORTHEON's compatibility mode). **UFC 5 and 6:** a processor with AVX2, 16 GB of RAM and, for UFC 6, 8 GB of video memory recommended (profiles for 4 and 6 GB cards). RX 5000 and GTX 10 cards lack a feature UFC 5 and 6 need.
+Prefer a zip? **PORTHEON-6.0-Windows-x64.zip** is still in the release: extract it into a new folder (not inside OneDrive) and open PORTHEON.exe. On Linux / Steam Deck, use the tar.gz and run **portheon.sh** (experimental).
+
+**Requirements:** Windows 10 (1903 or newer) or 11, 64-bit; a graphics card with Vulkan 1.3 (NVIDIA, AMD or Intel Arc) and an up-to-date driver. **UFC 1-4:** an Intel Core 4th generation (Haswell) or AMD Ryzen processor or newer (UFC 3 also runs on Intel Core 2nd/3rd generation through PORTHEON's compatibility mode). **UFC 5 and 6:** a processor with AVX2, 16 GB of RAM and, for UFC 6, 8 GB of video memory recommended (profiles for 4 and 6 GB cards). RX 5000 and GTX 10 cards lack a feature UFC 5 and 6 need. **Zelda native (Ocarina Recomp):** a processor with AVX2 and a Vulkan 1.3 card with mesh shaders.
 
 ## ✨ What PORTHEON does
 
-- **One window for every UFC:** video, gameplay and controller settings written straight into each port.
+- **One app for every game:** video, gameplay and controller settings written straight into each port.
 - **Automatic setup for your PC:** processor, graphics card, video memory, RAM and monitor, redone when the PC changes.
 - **"Does this PC run it?":** before a game's first PLAY, it says in plain words what will run, what will not and why.
 - **Fixes known crashes by itself:** after a graphics card stop (code 23) or a game fault (code 3), it changes what caused it for the next PLAY and explains it in words.
 - **Fixes over the Internet:** when a reported error is fixed, everyone gets the fix on opening PORTHEON. Only what matches your card is applied, the list only carries data, and you can turn it off.
 - **Report with one click:** when a game closes with an error, PORTHEON makes a report and opens the Discord so you can send it.
-- **Controllers:** PS5, PS4, PS3, Xbox and generic; two controllers are two players in UFC 1-4; Parsec mode for playing with a friend.
+- **Controllers and keyboard:** PS5, PS4, PS3, Xbox and generic controllers, or any keys on the keyboard; two controllers are two players in UFC 1-4; Parsec mode for playing with a friend.
 - **Online inside the game:** UFC 2 (in testing) and UFC 3.
-- **Profiles, automatic save backups, cheats (UFC 4), desktop shortcuts and 16 languages.**
+- **Profiles, automatic save backups, cheats (UFC 3, 4 and 6), desktop shortcuts and 16 languages.**
 
 ## 🏆 Credits
 
-- **PORTHEON:** Marcelo Miyake (XAndromedaXR) — the launcher, its interface, and the fixes and optimizations of every port.
-- **UFC 1-4 ports:** built on [GNS (GNSB)'s UFC 3 PS4 port](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS), on SacredFire / bbport and on shadPS4.
-- **UFC 5 engine:** the KytyPS5 build by Cozmaa and Brotski. XAndromedaXR improved that build for PORTHEON: the game's speed set from the real FPS, an AMD build that survives driver faults, crowd/shadows/seats switches and the audio watchdog off.
-- **UFC 6 engine:** the KytyPS5 build by Peepo. XAndromedaXR improved that build for PORTHEON: fights at the PS5's pace, the audio watchdog off, video memory profiles for 4, 6 and 8 GB cards and a guard against video memory crashes.
+- **PORTHEON:** Marcelo Miyake (XAndromedaXR).
 - **UFC Undisputed 3:** the native PC port is UFC3MONS, and all credit for the port belongs to its creator. PORTHEON only opens and organizes it.
-- **FPS patch:** lepexa_cell (Lepexa). XAndromedaXR improved that FPS patch for PORTHEON. The other community patches: Lepexa and Antigravity.
-- **Also:** KytyPS5 and Kyty (InoriRus), roshanarunk, Senaxx and EmK530 (UFC 5 engine work), deanzx06 (Sandy/Ivy Bridge compatibility), the GoldHEN Cheat Repository (UFC 4 cheats), SDL_GameControllerDB, and ken9l.
+
+The open-source licenses are in the package's `licenses` folder and in the `licenses` folders inside `games`.
 
 ## 📜 License
 
-PORTHEON and the ports are free software under the GNU GPL, version 2 or later. The source code is published with each release; the licenses folder of the package has every license and the credits.
+PORTHEON and the ports are free software under the GNU GPL, version 2 or later. The source code is published with each release; the licenses folder of the package has every license.
 
 ---
 
@@ -104,33 +109,36 @@ PORTHEON and the ports are free software under the GNU GPL, version 2 or later. 
 
 # 🇧🇷 PORTHEON — Ports & Mods
 
-O **PORTHEON** é um launcher dos ports para PC do **EA SPORTS UFC 1, 2, 3, 4 (PS4), UFC 5, UFC 6 (PS5) e UFC Undisputed 3**, criado e mantido por **Marcelo Miyake (XAndromedaXR)**. Ele acha o jogo, lê o seu PC e escolhe sozinho as melhores configurações de cada UFC.
+O **PORTHEON** é um aplicativo para os ports de PC do **EA SPORTS UFC 1, 2, 3, 4 (PS4), UFC 5, UFC 6 (PS5) e UFC Undisputed 3**, e desde a 6.0 também do **Zelda: Ocarina of Time (Switch 2)** e do **God of War III Remastered (PS4)**, criado e mantido por **Marcelo Miyake (XAndromedaXR)**. Ele acha o jogo, lê o seu PC e escolhe sozinho as melhores configurações de cada jogo.
 
 > **O PORTHEON é gratuito. Eu não vendo cópias do PORTHEON — aceito apenas doações** de quem quiser apoiar o projeto.
 >
 > **Nenhum arquivo dos jogos vem junto.** Você precisa da sua própria cópia de cada jogo.
-> Este projeto não é afiliado nem endossado pela Electronic Arts, pelo UFC, pela THQ, pela Sony Interactive Entertainment ou pela Microsoft. Os nomes e as marcas dos jogos são dos seus donos e aparecem só para identificá-los.
+> Este projeto não é afiliado nem endossado pela Electronic Arts, pelo UFC, pela THQ, pela Sony Interactive Entertainment, pela Nintendo ou pela Microsoft. Os nomes e as marcas dos jogos são dos seus donos e aparecem só para identificá-los.
 
-**[⬇️ Baixar o PORTHEON 5.0](https://github.com/XAndromedaXR/PORTHEON/releases/latest)** · **[💬 Discord](https://discord.gg/FEQ752rUz)**
+**[⬇️ Baixar o PORTHEON 6.0](https://github.com/XAndromedaXR/PORTHEON/releases/latest)** · **[💬 Discord](https://discord.gg/FEQ752rUz)**
 
-## 🔥 Novidades da 5.0 — a maior atualização do PORTHEON
+## 🔥 Novidades da 6.0 — a mega atualização
 
-Um PORTHEON novo de ponta a ponta: visual próprio, um jogo novo, FSR 1 da AMD em todos os UFC, menos travamentos em todas as placas e o jogo rodando sozinho, sem nada em segundo plano.
+Agora o PORTHEON é um **aplicativo**: instala com o próprio instalador, tem visual de PS5, traz dois jogos novos e o Recomp, e dá opções novas para todos os UFC.
 
 | | |
 |---|---|
-| 🎨 **Visual só do PORTHEON** | Preto e roxo, painéis de vidro e cantos cortados como o octógono, com o número do jogo gigante atrás do nome, como num pôster de luta |
-| 🥊 **UFC Undisputed 3 chega** | Um bloco novo com o port nativo para PC: escolha a pasta (default.xex) ou a ISO e aperte Jogar |
-| ⚡ **FSR 1 da AMD em todos os UFC** | Em placas AMD, NVIDIA e Intel. O UFC 5 e o 6 ganham a nitidez; o UFC 1 a 4 ganha também a ampliação quando o jogo aceita desenhar menor |
-| 🎮 **Adicionar à biblioteca do Steam** | Qualquer UFC vai para o Steam com capa, fundo, logo e ícone, e aparece no Big Picture |
-| 🛡️ **UFC 6 com menos travamentos** | Correções para RTX 50 e AMD RX 6000, mensagens claras e perfis de memória escolhidos pela RAM e pela memória da placa |
-| 🕹️ **Velocidade da luta no UFC 5** | Em Vídeo > Velocidade da luta. 100% é o ritmo do próprio PS5; o padrão é 90%, um pouco mais lento |
-| 🧠 **Ryzen X3D** | Nos processadores X3D de dois chiplets, o UFC 1 a 4 e o Undisputed 3 passam a rodar nos núcleos com o cache 3D |
-| 💤 **Nada em segundo plano** | Depois do Jogar, o PORTHEON fecha. Parado, ele não gasta mais processador |
+| 💿 **Agora é um aplicativo** | O **PORTHEON-6.0-Setup.exe** confere o PC antes (processador, driver, Vulkan, memória e disco), mostra quais jogos rodam nele, cria os atalhos e desinstala pelo Windows guardando os saves |
+| 🎮 **Visual de PS5** | Tela inicial como a do PS5, abertura como a do console ao ligar, o logo novo, preto e branco de padrão (outras cores em Configurações > Interface), a música de cada jogo e a vibração do controle no menu |
+| ⚙️ **O Recomp** | O **Ocarina Recomp** transforma o SEU **Zelda: Ocarina of Time 1.1.1** num **jogo nativo de PC**, sem emulador, dentro do PORTHEON (experimental) |
+| 🗡️ **Jogos novos** | **Zelda: Ocarina of Time (Switch 2)** no emulador Lichii MDias v4, e **God of War III Remastered (PS4)** pelo port nativo para PC |
+| 🥊 **UFC 6** | Opções novas em Jogabilidade (vêm desligadas): **sem faíscas, suor e fumaça** (desliga todos os efeitos de partícula), **stamina infinita** e **sem dano / sem nocaute** (trapaças); 480p e 360p para PC fraco e 720p exato |
+| 🥊 **UFC 5** | 480p e 360p para PC fraco (a interface continua nítida); modo liso (60 FPS + VSync) de padrão; 01.032 sem luta acelerada |
+| 🥊 **UFC 1 a 4** | Resolução 3D de 720p até 360p (UFC 2 a 4); trapaças experimentais: stamina infinita no UFC 3 e sem dano no lutador da esquerda no UFC 4; **UFC 2 online (em teste):** painel do Ranqueado e convites dentro do jogo |
+| ⌨️ **Teclado** | Os controles do UFC 1 ao UFC 6 em qualquer tecla (Jogabilidade > Teclado); no UFC 5 e 6, botões do mouse também |
+| 🖥️ **Tela cheia sem bordas** | Em todos os UFC (aba Vídeo): o jogo cobre o monitor sem trocar a resolução, e o Alt+Tab é na hora |
+| 🛠️ **Correções dos relatórios** | UFC 4 nas Radeon RX 5000 (código 23), UFC 6 nas RTX 50 (driver 621) e o crash de cópia nas AMD, avisos claros, modo compatível oferecido depois de 2 crashes |
+| ⚡ **Mais rápido até o jogo** | O JOGAR não repete mais a checagem do PC, as varreduras de arquivos e os backups toda vez; nos UFC fica só o jogo aberto |
 
-E mais: conta como num console, com nome, foto e status, transições cinematográficas que ficam leves sozinhas em PC fraco, ícones próprios e uma opção no UFC 4 para desligar sombras e ganhar FPS.
+E mais: a versão da sua cópia na página de cada jogo, as capas do Zelda e do God of War III antes de instalar, e o logo novo nos atalhos e na barra de tarefas.
 
-**[Leia as notas completas da 5.0 →](https://github.com/XAndromedaXR/PORTHEON/releases/tag/5.0)**
+**[Leia as notas completas da 6.0 →](https://github.com/XAndromedaXR/PORTHEON/releases/tag/6.0)**
 
 ## 🎮 Jogos
 
@@ -143,41 +151,41 @@ E mais: conta como num console, com nome, foto e status, transições cinematogr
 | **EA SPORTS UFC 5** | PS5 | PPSA03541, versão 01.031 | port para PC (motor KytyPS5) |
 | **EA SPORTS UFC 6** | PS5 | PPSA23566, versão 01.004, 01.005 ou 01.005 + 01.006 | port para PC (motor KytyPS5) |
 | **UFC Undisputed 3** | Xbox 360 | pasta do jogo (default.xex) ou ISO | port nativo para PC (UFC3MONS) |
+| **Zelda: Ocarina of Time** | Switch 2 | .nup, ou .nsp/.xci com as suas chaves (versão 1.1.1 para o nativo) | emulador Lichii, ou nativo no PC pelo Ocarina Recomp (experimental) |
+| **God of War III Remastered** | PS4 | CUSA01623, update 01.02 | port nativo para PC |
 
 ## 🚀 Como instalar
 
-1. Baixe o **PORTHEON-5.0-Windows-x64.zip** da [versão mais recente](https://github.com/XAndromedaXR/PORTHEON/releases/latest).
-2. Extraia numa **pasta nova e vazia** (nunca por cima de uma versão antiga, e fora do OneDrive).
-3. Abra o **PORTHEON.exe**. No Linux / Steam Deck, rode o **portheon.sh** (experimental).
-4. O PORTHEON procura os seus jogos no PC. Se não achar algum, abra o jogo, escolha **Arquivos do jogo** e indique a pasta do seu jogo.
-5. Clique em **JOGAR**.
+1. Baixe o **PORTHEON-6.0-Setup.exe** da [versão mais recente](https://github.com/XAndromedaXR/PORTHEON/releases/latest).
+2. Abra o instalador. Ele confere o seu PC, mostra quais jogos rodam nele e instala o PORTHEON com os atalhos.
+3. Abra o **PORTHEON**. Ele procura os seus jogos no PC. Se não achar algum, abra o jogo, escolha **Arquivos do jogo** e indique a pasta do seu jogo.
+4. Clique em **JOGAR**.
 
-> ⚠️ **Vindo de uma versão antiga?** Faça backup do que quiser guardar, exclua o PORTHEON antigo e instale a 5.0 do zero, para os shaders serem refeitos. Muito provavelmente, a maioria dos erros persistentes e bugs vem dos arquivos antigos.
+> ⚠️ **Vindo de uma versão antiga?** Instale pelo instalador novo e **não atualize pelo botão da versão antiga**. No instalador, escolha a pasta do seu PORTHEON antigo: ele é atualizado, e os saves e quase todas as configurações ficam.
 
-**Requisitos:** Windows 10 (1903 ou mais novo) ou 11, 64 bits; placa de vídeo com Vulkan 1.3 (NVIDIA, AMD ou Intel Arc) e driver atualizado. **UFC 1 a 4:** processador Intel Core de 4ª geração (Haswell) ou AMD Ryzen, ou mais novo (o UFC 3 roda também em Intel Core de 2ª e 3ª geração pelo modo de compatibilidade do PORTHEON). **UFC 5 e 6:** processador com AVX2, 16 GB de RAM e, no UFC 6, 8 GB de memória de vídeo recomendados (perfis para placas de 4 e 6 GB). As placas RX 5000 e GTX 10 não têm um recurso que o UFC 5 e o 6 precisam.
+Prefere o zip? O **PORTHEON-6.0-Windows-x64.zip** continua na versão: extraia numa pasta nova (fora do OneDrive) e abra o PORTHEON.exe. No Linux / Steam Deck, use o tar.gz e rode o **portheon.sh** (experimental).
+
+**Requisitos:** Windows 10 (1903 ou mais novo) ou 11, 64 bits; placa de vídeo com Vulkan 1.3 (NVIDIA, AMD ou Intel Arc) e driver atualizado. **UFC 1 a 4:** processador Intel Core de 4ª geração (Haswell) ou AMD Ryzen, ou mais novo (o UFC 3 roda também em Intel Core de 2ª e 3ª geração pelo modo de compatibilidade do PORTHEON). **UFC 5 e 6:** processador com AVX2, 16 GB de RAM e, no UFC 6, 8 GB de memória de vídeo recomendados (perfis para placas de 4 e 6 GB). As placas RX 5000 e GTX 10 não têm um recurso que o UFC 5 e o 6 precisam. **Zelda nativo (Ocarina Recomp):** processador com AVX2 e placa com Vulkan 1.3 e mesh shaders.
 
 ## ✨ O que o PORTHEON faz
 
-- **Uma janela para todos os UFC:** vídeo, jogabilidade e controles gravados direto em cada port.
+- **Um aplicativo para todos os jogos:** vídeo, jogabilidade e controles gravados direto em cada port.
 - **Configuração automática para o seu PC:** processador, placa de vídeo, memória de vídeo, RAM e monitor, refeita quando o PC muda.
 - **"Este PC roda?":** antes do primeiro JOGAR, ele diz em palavras simples o que vai rodar, o que não vai e por quê.
 - **Resolve sozinho os travamentos conhecidos:** depois de a placa de vídeo parar (código 23) ou de uma falha no jogo (código 3), ele muda o que causou isso para o próximo JOGAR e explica em palavras.
 - **Correções pela internet:** quando um erro enviado é corrigido, todo mundo recebe a correção ao abrir o PORTHEON. Só o que serve para a sua placa é aplicado, a lista só traz dados e dá para desligar.
 - **Relatório com um clique:** quando um jogo fecha com erro, o PORTHEON gera o relatório e abre o Discord para você mandar.
-- **Controles:** PS5, PS4, PS3, Xbox e genéricos; dois controles são dois jogadores nos UFC 1 a 4; Modo Parsec para jogar com um amigo.
+- **Controles e teclado:** PS5, PS4, PS3, Xbox e genéricos, ou qualquer tecla do teclado; dois controles são dois jogadores nos UFC 1 a 4; Modo Parsec para jogar com um amigo.
 - **Online dentro do jogo:** UFC 2 (em teste) e UFC 3.
-- **Perfis, backup automático dos saves, trapaças (UFC 4), atalhos na área de trabalho e 16 idiomas.**
+- **Perfis, backup automático dos saves, trapaças (UFC 3, 4 e 6), atalhos na área de trabalho e 16 idiomas.**
 
 ## 🏆 Créditos
 
-- **PORTHEON:** Marcelo Miyake (XAndromedaXR) — o launcher, a interface e as correções e otimizações de todos os ports.
-- **Ports do UFC 1 a 4:** feitos a partir do [port do UFC 3 de PS4 do GNS (GNSB)](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS), do SacredFire / bbport e do shadPS4.
-- **Motor do UFC 5:** o build do KytyPS5 de Cozmaa e Brotski. O XAndromedaXR melhorou esse build para o PORTHEON: a velocidade do jogo pelo FPS real, um build para AMD que resiste a falhas do driver, opções de torcida/sombras/arquibancada e o vigia de áudio desligado.
-- **Motor do UFC 6:** o build do KytyPS5 do Peepo. O XAndromedaXR melhorou esse build para o PORTHEON: luta na velocidade do PS5, vigia de áudio desligado, perfis de memória de vídeo para placas de 4, 6 e 8 GB e proteção contra travamentos de memória de vídeo.
+- **PORTHEON:** Marcelo Miyake (XAndromedaXR).
 - **UFC Undisputed 3:** o port nativo para PC é o UFC3MONS, e todo o crédito do port é de quem o criou. O PORTHEON só o abre e organiza.
-- **Patch de FPS:** lepexa_cell (Lepexa). O XAndromedaXR aprimorou esse patch de FPS para o PORTHEON. Os outros patches da comunidade: Lepexa e Antigravity.
-- **E também:** KytyPS5 e Kyty (InoriRus), roshanarunk, Senaxx e EmK530 (trabalho no motor do UFC 5), deanzx06 (compatibilidade com Sandy/Ivy Bridge), GoldHEN Cheat Repository (trapaças do UFC 4), SDL_GameControllerDB e ken9l.
+
+As licenças de código aberto estão na pasta `licenses` do pacote e nas pastas `licenses` dentro de `games`.
 
 ## 📜 Licença
 
-O PORTHEON e os ports são software livre sob a GNU GPL, versão 2 ou mais nova. O código-fonte é publicado com cada versão; a pasta licenses do pacote tem todas as licenças e os créditos.
+O PORTHEON e os ports são software livre sob a GNU GPL, versão 2 ou mais nova. O código-fonte é publicado com cada versão; a pasta licenses do pacote tem todas as licenças.
