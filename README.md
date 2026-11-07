@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/XAndromedaXR.png?size=280" width="140" alt="PORTHEON">
+<img src="https://github.com/XAndromedaXR.png?size=300" width="140" alt="PORTHEON">
 
 # PORTHEON
 
